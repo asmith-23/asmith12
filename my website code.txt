@@ -1,0 +1,65 @@
+
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>
+			<center><b>Alejandro Smith's Website</b></center>
+		</title>
+	</head>
+	<body>
+	<style>
+	h1 {text-shadow: 0 0 3px #FF0000;}
+	</style>	
+	<p style="font-size: 36 px; font-family: Arial Black"><center><b>ALEJANDRO SMITH</b></center></p>
+	
+	<p>
+
+
+
+	</p>
+	<p style="font-family: Arial Black"><center><b><i>My name is Alejandro Smith! I'm a Senior finance major at the University of Maryland graduation in less than a month!</i></b></center></p>
+	
+		<a href "http:://hmpg.net/">
+	
+			<img src="http://csmphoto.zenfolio.com/img/s/v-3/p1408803551-3.jpg"/>
+	
+		</a>
+		 
+		<ul>
+			<li><p style="color:blue; font-size: 28px">My Interests</p>
+				<ol type="I">
+					<li style="font-family:Times New Roman"><a href "https://kalalautrail.com/">Hiking</li>
+				</a>
+					<li style="font-family:Times New Roman">Eating Seafood</li>
+						<ul>
+							<li style="font-family:Times New Roman">Calamari</li>
+							<li style="font-family:Times New Roman">Maryland Blue Crab</li>
+							<li style="font-family:Times New Roman">Raw Oysters</li>
+							<li style="font-family:Times New Roman">Mussels</li>
+							<li style="font-family:Times New Roman">Lobster</li>
+						</ul>
+					<li style="font-family:Times New Roman">Traveling</li>
+					<li style="font-family:Times New Roman">Running</li>
+				</ol>
+            </li>
+			<li><p><h1>Fun Facts!</h1></p>
+				<ol>
+					<li style="font-family:Times New Roman"><a href "umd.edu">Teaching Assistant at UMD R.H. Smith</li>
+				</a>
+					<li style="font-family:Times New Roman">Played 4 sports in High School / 1 in College</li>
+					<li style="font-family:Times New Roman"><a href "http://athletics.csmd.edu/sports/mxc/2015-16/releases/CSM_Men-s_Cross-country_Heads_to_National_Championship_Nov_14">Went to Nationals for Cross Country</li>
+				</a>	
+					<li style="font-family:Times New Roman">Loves Dogs, especially Golden Retrievers!</li>
+					<li style="font-size:32px; color:red; font-family:Times New Roman">I'm not good at coding so this is taking a while</li>
+				</ol>
+            
+            </li>
+			<li><p style="color:purple; font-size: 24px">Favorite Quotes</p>
+				<ul>
+					<li style="font-size:18px; font-family:Times New Roman">"The harder you work, the luckier you get"</li>
+					<li style="font-size:18px; font-family:Times New Roman">"1 > 0"</li>
+				</ul>
+            </li>
+		</ul>
+	</body>
+</html>
